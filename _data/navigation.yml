@@ -5,7 +5,7 @@ main:
   - title: "Intro"
     url: /_pages/intro
 
-docs:
+sidemenudemo:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"

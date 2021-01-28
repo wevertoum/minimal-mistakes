@@ -264,7 +264,7 @@ defaults:
       type: docs
     values:
       sidebar:
-        nav: docs
+        nav: "sidemenudemo"
       layout: single
       # author_profile: true
       read_time: true
