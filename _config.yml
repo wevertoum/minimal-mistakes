@@ -152,11 +152,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-  # Table of contents
-  toc: true
-  toc_label: "Tópicos"
-  toc_icon: "link"
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
