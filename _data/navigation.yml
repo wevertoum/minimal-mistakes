@@ -4,3 +4,14 @@ main:
     url: /_pages/api
   - title: "Intro"
     url: /_pages/intro
+
+menusidebar:
+  - title: parte da api e tal
+    children:
+      - title: "Quick-Start Guide"
+        url: /_pages/api
+
+  - title: parte da intro e tal
+    children:
+      - title: "Quick-Start Guide"
+        url: /_pages/intro
